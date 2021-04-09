@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Tus maith, leath na hoibre.
 Use the left arrow to go back!
